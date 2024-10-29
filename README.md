@@ -169,7 +169,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Starter kit | [github](https://github.com/MilosPaunovic/quasar-v2-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password), Router & Pinia are present with a lot more helpful stuff implemented. | v2 |
 | OTA system | [github](https://github.com/Cap-go/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
 | Quasar Firebase Template | [github](https://github.com/wiktorcie/quasar2-firebase-auth), [demo](https://xenodochial-clarke-616008.netlify.app/#/) | Email/google sign in, user profiles, password resets, photo uploads to Google Firebase | v2.0.3 |
-
+| @simsustech/quasar-components | [github](https://github.com/simsustech/quasar-components), [npm](https://www.npmjs.com/package/@simsustech/quasar-components) | High level components for Quasar Framework. | v2.17+ |
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
@@ -362,3 +362,5 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Agrobays Agrofoods | [iOS](https://apps.apple.com/ng/app/agrobays-agrofoods/id6463464628), [Android](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app), [PWA](https://app.agrobays.com/) | Save and book weekly delivery of the best Fruits & Veggies | v2.15.4
 | 5minutes | [Android](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app), [PWA](https://app.5minutes.ng/) | A mentor-mentee learning platform where mentors share content that is consumable in no more than 5minutes | v2.15.4
 | Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2 |
+| Petboarding | [website](https://www.petboarding.app), [demo](https://demo.petboarding.app), [github](https://github.com/simsustech/petboarding) | Easy, fast and reliable pet boarding booking system. | v2.17+ |
+| SlimFact | [website](https://www.slimfact.app), [demo](https://demo.slimfact.app), [github](https://github.com/simsustech/slimfact) | Streamlined invoicing made easy. | v2.17+ |
