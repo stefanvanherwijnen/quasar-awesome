@@ -170,6 +170,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | OTA system | [github](https://github.com/Cap-go/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
 | Quasar Firebase Template | [github](https://github.com/wiktorcie/quasar2-firebase-auth), [demo](https://xenodochial-clarke-616008.netlify.app/#/) | Email/google sign in, user profiles, password resets, photo uploads to Google Firebase | v2.0.3 |
 | @simsustech/quasar-components | [github](https://github.com/simsustech/quasar-components), [npm](https://www.npmjs.com/package/@simsustech/quasar-components) | High level components for Quasar Framework. | v2.17+ |
+| unocss-preset-quasar | [github](https://github.com/simsustech/unocss-preset-quasar), [npm](https://www.npmjs.com/package/unocss-preset-quasar) | UnoCSS preset for Quasar Framework | v2.17+ |
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
